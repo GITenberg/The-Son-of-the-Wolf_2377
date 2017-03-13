@@ -1,5 +1,8 @@
 _repo: The-Son-of-the-Wolf_2377
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -13,6 +16,8 @@ description: Love Jack London's classic adventure novel The Call of the Wild? Cu
   up with this collection of short stories in the same vein. The tales in The Son
   of the Wolf, most of which are set in the Klondike region of the Yukon, highlight
   London at his very best.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2377#The-Son-of-the-Wolf
 gutenberg_issued: '2000-10-01'
 gutenberg_type: Text
 identifiers:
